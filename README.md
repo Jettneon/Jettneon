@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<p aligh="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=Jettneon&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=Jettneon&layout=compact&theme=midnight-purple" />
-</p>
+</div>
+
 <!--
 **Jettneon/Jettneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
