@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jettneon&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jettneon&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<p aligh="left">
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=Jettneon&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=Jettneon&layout=compact&theme=midnight-purple" />
+</p>
 <!--
 **Jettneon/Jettneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
